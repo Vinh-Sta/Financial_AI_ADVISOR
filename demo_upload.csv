@@ -1,0 +1,234 @@
+date,item,category,price,income
+2026-03-01,Monthly Salary,Income,15000000,15000000
+2026-03-01,Fresh Mart,Groceries & Food,348000,0
+2026-03-24,Green Grocery,Groceries & Food,521000,0
+2026-03-03,Cooking Ingredients,Groceries & Food,263000,0
+2026-03-07,Fresh Mart,Groceries & Food,452000,0
+2026-03-07,Burger Joint,Dining Out,92000,0
+2026-03-09,Burger Joint,Dining Out,208000,0
+2026-03-23,Highlands Coffee,Dining Out,118000,0
+2026-03-07,Highlands Coffee,Dining Out,67000,0
+2026-03-04,Sushi Restaurant,Dining Out,227000,0
+2026-03-09,Burger Joint,Dining Out,202000,0
+2026-03-04,Burger Joint,Dining Out,62000,0
+2026-03-27,Bubble Tea House,Dining Out,169000,0
+2026-03-22,Gas Station,Transportation,128000,0
+2026-03-28,Gas Station,Transportation,141000,0
+2026-03-09,City Taxi,Transportation,109000,0
+2026-03-06,Bus Ticket,Transportation,70000,0
+2026-03-23,Bus Ticket,Transportation,105000,0
+2026-03-18,Ride-hailing App,Transportation,43000,0
+2026-03-13,Apartment Rent,Utilities & Rent,5049000,0
+2026-03-21,Electricity Bill,Utilities & Rent,685000,0
+2026-03-27,Water Bill,Utilities & Rent,148000,0
+2026-03-02,Internet Provider,Utilities & Rent,269000,0
+2026-03-03,Mobile Phone Bill,Utilities & Rent,126000,0
+2026-03-21,Clothing Store,Shopping & Tech,469000,0
+2026-03-05,Cosmetics,Shopping & Tech,308000,0
+2026-04-01,Monthly Salary,Income,15000000,15000000
+2026-04-18,Cooking Ingredients,Groceries & Food,549000,0
+2026-04-29,Daily Supermarket,Groceries & Food,395000,0
+2026-04-17,Green Grocery,Groceries & Food,286000,0
+2026-04-28,Fresh Mart,Groceries & Food,311000,0
+2026-04-14,Starbucks,Dining Out,128000,0
+2026-04-15,Burger Joint,Dining Out,254000,0
+2026-04-22,Pho 24,Dining Out,192000,0
+2026-04-25,Burger Joint,Dining Out,210000,0
+2026-04-04,Bubble Tea House,Dining Out,138000,0
+2026-04-01,Sushi Restaurant,Dining Out,254000,0
+2026-04-17,Highlands Coffee,Dining Out,232000,0
+2026-04-27,Bubble Tea House,Dining Out,78000,0
+2026-04-18,Highlands Coffee,Dining Out,174000,0
+2026-04-04,Gas Station,Transportation,143000,0
+2026-04-08,Bus Ticket,Transportation,54000,0
+2026-04-03,Parking Fee,Transportation,122000,0
+2026-04-25,Gas Station,Transportation,38000,0
+2026-04-18,City Taxi,Transportation,57000,0
+2026-04-14,Parking Fee,Transportation,150000,0
+2026-04-23,Ride-hailing App,Transportation,76000,0
+2026-04-15,Bus Ticket,Transportation,37000,0
+2026-04-03,Ride-hailing App,Transportation,23000,0
+2026-04-18,Apartment Rent,Utilities & Rent,5009000,0
+2026-04-01,Electricity Bill,Utilities & Rent,692000,0
+2026-04-02,Water Bill,Utilities & Rent,135000,0
+2026-04-02,Internet Provider,Utilities & Rent,253000,0
+2026-04-08,Mobile Phone Bill,Utilities & Rent,116000,0
+2026-04-05,Phone Accessories,Shopping & Tech,373000,0
+2026-05-01,Monthly Salary,Income,15000000,15000000
+2026-05-26,Daily Supermarket,Groceries & Food,326000,0
+2026-05-22,Fresh Mart,Groceries & Food,392000,0
+2026-05-15,Daily Supermarket,Groceries & Food,519000,0
+2026-05-02,Fresh Mart,Groceries & Food,541000,0
+2026-05-07,Highlands Coffee,Dining Out,160000,0
+2026-05-14,Highlands Coffee,Dining Out,105000,0
+2026-05-28,Highlands Coffee,Dining Out,140000,0
+2026-05-04,Burger Joint,Dining Out,185000,0
+2026-05-27,Burger Joint,Dining Out,253000,0
+2026-05-06,Highlands Coffee,Dining Out,149000,0
+2026-05-28,Highlands Coffee,Dining Out,239000,0
+2026-05-13,Highlands Coffee,Dining Out,257000,0
+2026-05-10,City Taxi,Transportation,118000,0
+2026-05-22,Parking Fee,Transportation,42000,0
+2026-05-07,Bus Ticket,Transportation,101000,0
+2026-05-02,Parking Fee,Transportation,28000,0
+2026-05-16,Parking Fee,Transportation,28000,0
+2026-05-03,Parking Fee,Transportation,30000,0
+2026-05-22,Gas Station,Transportation,77000,0
+2026-05-08,Parking Fee,Transportation,107000,0
+2026-05-14,Apartment Rent,Utilities & Rent,5043000,0
+2026-05-07,Electricity Bill,Utilities & Rent,552000,0
+2026-05-13,Water Bill,Utilities & Rent,184000,0
+2026-05-10,Internet Provider,Utilities & Rent,265000,0
+2026-05-25,Mobile Phone Bill,Utilities & Rent,89000,0
+2026-05-18,Online Marketplace,Shopping & Tech,539000,0
+2026-06-01,Monthly Salary,Income,15000000,15000000
+2026-06-30,Green Grocery,Groceries & Food,602000,0
+2026-06-12,Green Grocery,Groceries & Food,313000,0
+2026-06-23,Cooking Ingredients,Groceries & Food,495000,0
+2026-06-01,Cooking Ingredients,Groceries & Food,623000,0
+2026-06-09,Highlands Coffee,Dining Out,236000,0
+2026-06-18,Starbucks,Dining Out,104000,0
+2026-06-07,Burger Joint,Dining Out,89000,0
+2026-06-28,Starbucks,Dining Out,154000,0
+2026-06-29,Bubble Tea House,Dining Out,65000,0
+2026-06-27,Sushi Restaurant,Dining Out,54000,0
+2026-06-25,Bubble Tea House,Dining Out,182000,0
+2026-06-06,Bubble Tea House,Dining Out,164000,0
+2026-06-01,Parking Fee,Transportation,31000,0
+2026-06-18,Ride-hailing App,Transportation,137000,0
+2026-06-18,Parking Fee,Transportation,80000,0
+2026-06-10,Gas Station,Transportation,146000,0
+2026-06-29,Gas Station,Transportation,49000,0
+2026-06-22,Ride-hailing App,Transportation,70000,0
+2026-06-29,Parking Fee,Transportation,156000,0
+2026-06-30,Ride-hailing App,Transportation,141000,0
+2026-06-29,Ride-hailing App,Transportation,23000,0
+2026-06-24,Apartment Rent,Utilities & Rent,5028000,0
+2026-06-14,Electricity Bill,Utilities & Rent,560000,0
+2026-06-26,Water Bill,Utilities & Rent,161000,0
+2026-06-02,Internet Provider,Utilities & Rent,260000,0
+2026-06-27,Mobile Phone Bill,Utilities & Rent,103000,0
+2026-06-01,Clothing Store,Shopping & Tech,471000,0
+2026-07-01,Monthly Salary,Income,15000000,15000000
+2026-07-28,City Market,Groceries & Food,637000,0
+2026-07-12,City Market,Groceries & Food,522000,0
+2026-07-11,Cooking Ingredients,Groceries & Food,296000,0
+2026-07-06,City Market,Groceries & Food,265000,0
+2026-07-24,Bubble Tea House,Dining Out,139000,0
+2026-07-04,Burger Joint,Dining Out,238000,0
+2026-07-09,Highlands Coffee,Dining Out,197000,0
+2026-07-17,Pho 24,Dining Out,123000,0
+2026-07-31,Pho 24,Dining Out,179000,0
+2026-07-28,Starbucks,Dining Out,200000,0
+2026-07-17,Bubble Tea House,Dining Out,188000,0
+2026-07-13,Bubble Tea House,Dining Out,164000,0
+2026-07-14,Highlands Coffee,Dining Out,191000,0
+2026-07-20,Highlands Coffee,Dining Out,132000,0
+2026-07-10,Pho 24,Dining Out,90000,0
+2026-07-15,City Taxi,Transportation,115000,0
+2026-07-16,Parking Fee,Transportation,112000,0
+2026-07-17,Bus Ticket,Transportation,33000,0
+2026-07-22,Ride-hailing App,Transportation,51000,0
+2026-07-05,Ride-hailing App,Transportation,26000,0
+2026-07-20,City Taxi,Transportation,84000,0
+2026-07-07,Parking Fee,Transportation,89000,0
+2026-07-05,Ride-hailing App,Transportation,145000,0
+2026-07-28,Apartment Rent,Utilities & Rent,5028000,0
+2026-07-08,Electricity Bill,Utilities & Rent,721000,0
+2026-07-23,Water Bill,Utilities & Rent,134000,0
+2026-07-08,Internet Provider,Utilities & Rent,272000,0
+2026-07-26,Mobile Phone Bill,Utilities & Rent,116000,0
+2026-07-20,Cosmetics,Shopping & Tech,743000,0
+2026-07-15,Phone Accessories,Shopping & Tech,689000,0
+2026-08-01,Monthly Salary,Income,15000000,15000000
+2026-08-15,Daily Supermarket,Groceries & Food,551000,0
+2026-08-25,City Market,Groceries & Food,501000,0
+2026-08-15,City Market,Groceries & Food,535000,0
+2026-08-09,Green Grocery,Groceries & Food,378000,0
+2026-08-05,Highlands Coffee,Dining Out,127000,0
+2026-08-23,Highlands Coffee,Dining Out,59000,0
+2026-08-11,Sushi Restaurant,Dining Out,134000,0
+2026-08-27,Highlands Coffee,Dining Out,129000,0
+2026-08-31,Burger Joint,Dining Out,229000,0
+2026-08-13,Burger Joint,Dining Out,46000,0
+2026-08-10,Bubble Tea House,Dining Out,228000,0
+2026-08-18,Sushi Restaurant,Dining Out,150000,0
+2026-08-16,City Taxi,Transportation,74000,0
+2026-08-24,City Taxi,Transportation,138000,0
+2026-08-20,Ride-hailing App,Transportation,147000,0
+2026-08-19,Parking Fee,Transportation,32000,0
+2026-08-05,City Taxi,Transportation,45000,0
+2026-08-13,Bus Ticket,Transportation,50000,0
+2026-08-11,Bus Ticket,Transportation,59000,0
+2026-08-09,City Taxi,Transportation,86000,0
+2026-08-24,Apartment Rent,Utilities & Rent,5050000,0
+2026-08-12,Electricity Bill,Utilities & Rent,675000,0
+2026-08-25,Water Bill,Utilities & Rent,190000,0
+2026-08-31,Internet Provider,Utilities & Rent,259000,0
+2026-08-01,Mobile Phone Bill,Utilities & Rent,99000,0
+2026-08-19,Online Marketplace,Shopping & Tech,513000,0
+2026-08-25,Headphones Store,Shopping & Tech,326000,0
+2026-09-01,Monthly Salary,Income,15000000,15000000
+2026-09-24,Cooking Ingredients,Groceries & Food,561000,0
+2026-09-10,Green Grocery,Groceries & Food,481000,0
+2026-09-19,City Market,Groceries & Food,409000,0
+2026-09-03,Green Grocery,Groceries & Food,291000,0
+2026-09-20,Starbucks,Dining Out,216000,0
+2026-09-26,Burger Joint,Dining Out,120000,0
+2026-09-22,Sushi Restaurant,Dining Out,60000,0
+2026-09-11,Starbucks,Dining Out,228000,0
+2026-09-04,Sushi Restaurant,Dining Out,252000,0
+2026-09-29,Starbucks,Dining Out,197000,0
+2026-09-06,Sushi Restaurant,Dining Out,177000,0
+2026-09-25,Burger Joint,Dining Out,145000,0
+2026-09-19,Starbucks,Dining Out,114000,0
+2026-09-27,Highlands Coffee,Dining Out,105000,0
+2026-09-25,Ride-hailing App,Transportation,100000,0
+2026-09-11,City Taxi,Transportation,89000,0
+2026-09-06,Bus Ticket,Transportation,50000,0
+2026-09-11,Bus Ticket,Transportation,143000,0
+2026-09-18,Bus Ticket,Transportation,92000,0
+2026-09-03,Ride-hailing App,Transportation,121000,0
+2026-09-18,City Taxi,Transportation,117000,0
+2026-09-15,City Taxi,Transportation,33000,0
+2026-09-13,Ride-hailing App,Transportation,63000,0
+2026-09-19,Apartment Rent,Utilities & Rent,4997000,0
+2026-09-17,Electricity Bill,Utilities & Rent,608000,0
+2026-09-24,Water Bill,Utilities & Rent,158000,0
+2026-09-15,Internet Provider,Utilities & Rent,264000,0
+2026-09-08,Mobile Phone Bill,Utilities & Rent,118000,0
+2026-09-24,Online Marketplace,Shopping & Tech,341000,0
+2026-09-09,Cosmetics,Shopping & Tech,838000,0
+2026-10-01,Monthly Salary,Income,15000000,15000000
+2026-10-10,Green Grocery,Groceries & Food,394000,0
+2026-10-01,City Market,Groceries & Food,360000,0
+2026-10-18,Fresh Mart,Groceries & Food,529000,0
+2026-10-21,Green Grocery,Groceries & Food,291000,0
+2026-10-10,Burger Joint,Dining Out,225000,0
+2026-10-06,Bubble Tea House,Dining Out,140000,0
+2026-10-04,Sushi Restaurant,Dining Out,195000,0
+2026-10-19,Pho 24,Dining Out,102000,0
+2026-10-31,Burger Joint,Dining Out,77000,0
+2026-10-04,Highlands Coffee,Dining Out,272000,0
+2026-10-08,Burger Joint,Dining Out,214000,0
+2026-10-10,Sushi Restaurant,Dining Out,160000,0
+2026-10-02,Burger Joint,Dining Out,400000,0
+2026-10-21,Highlands Coffee,Dining Out,144000,0
+2026-10-06,Pho 24,Dining Out,110000,0
+2026-10-06,Pho 24,Dining Out,198000,0
+2026-10-02,Bus Ticket,Transportation,60000,0
+2026-10-23,Bus Ticket,Transportation,30000,0
+2026-10-30,Ride-hailing App,Transportation,130000,0
+2026-10-22,Parking Fee,Transportation,80000,0
+2026-10-08,Parking Fee,Transportation,147000,0
+2026-10-03,Ride-hailing App,Transportation,43000,0
+2026-10-20,Bus Ticket,Transportation,81000,0
+2026-10-23,City Taxi,Transportation,118000,0
+2026-10-17,Bus Ticket,Transportation,81000,0
+2026-10-20,Apartment Rent,Utilities & Rent,5039000,0
+2026-10-24,Electricity Bill,Utilities & Rent,661000,0
+2026-10-01,Water Bill,Utilities & Rent,148000,0
+2026-10-22,Internet Provider,Utilities & Rent,299000,0
+2026-10-22,Mobile Phone Bill,Utilities & Rent,112000,0
+2026-10-17,Cosmetics,Shopping & Tech,2583000,0
+2026-10-19,Clothing Store,Shopping & Tech,1858000,0
